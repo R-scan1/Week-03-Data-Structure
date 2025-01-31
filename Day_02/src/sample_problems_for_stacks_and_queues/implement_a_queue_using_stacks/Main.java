@@ -1,6 +1,5 @@
 package sample_problems_for_stacks_and_queues.implement_a_queue_using_stacks;
 
-import java.sql.SQLOutput;
 
 public class Main {
     public static void main(String[] args) {

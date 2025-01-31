@@ -1,6 +1,5 @@
 package sample_problems_for_stacks_and_queues.sort_a_stack_using_recursion;
 
-import java.util.ArrayList;
 import java.util.Stack;
 
 public class StackSortOperation {
