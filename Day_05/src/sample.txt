@@ -1,0 +1,4 @@
+Hello, this is a sample text file.  
+BufferedReader reads text efficiently line by line.  
+It is commonly used for reading files in Java.  
+End of sample text .
