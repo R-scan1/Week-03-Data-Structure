@@ -1,0 +1,4 @@
+Here is a sample text which can be 
+stored in file using bufferedwriter
+and inputstreamreader.
+demo again
